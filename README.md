@@ -5,5 +5,5 @@
 - java 폴더: DB에 등록된 계정 정보로 팔로워를 확인해 블락 처리하는 프로그램입니다.
 
 ### 사용된 라이브러리
-https://github.com/abraham/twitteroauth
+https://github.com/abraham/twitteroauth  
 https://github.com/yusuke/twitter4j
